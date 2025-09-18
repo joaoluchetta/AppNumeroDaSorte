@@ -12,31 +12,31 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoMAUI
-build_property.ProjectDir = C:\Users\Joao\source\repos\ProjetoMAUI\ProjetoMAUI\
+build_property.ProjectDir = C:\estudos\front-end\mobile\maui\ProjetoMAUI\ProjetoMAUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Joao/source/repos/ProjetoMAUI/ProjetoMAUI/App.xaml]
+[C:/estudos/front-end/mobile/maui/ProjetoMAUI/ProjetoMAUI/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Joao/source/repos/ProjetoMAUI/ProjetoMAUI/MainPage.xaml]
+[C:/estudos/front-end/mobile/maui/ProjetoMAUI/ProjetoMAUI/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Joao/source/repos/ProjetoMAUI/ProjetoMAUI/Resources/Styles/Colors.xaml]
+[C:/estudos/front-end/mobile/maui/ProjetoMAUI/ProjetoMAUI/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Joao/source/repos/ProjetoMAUI/ProjetoMAUI/Resources/Styles/Styles.xaml]
+[C:/estudos/front-end/mobile/maui/ProjetoMAUI/ProjetoMAUI/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

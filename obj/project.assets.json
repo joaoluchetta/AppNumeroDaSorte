@@ -26228,11 +26228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joao\\source\\repos\\ProjetoMAUI\\ProjetoMAUI\\ProjetoMAUI.csproj",
+      "projectUniqueName": "C:\\estudos\\front-end\\mobile\\maui\\ProjetoMAUI\\ProjetoMAUI\\ProjetoMAUI.csproj",
       "projectName": "ProjetoMAUI",
-      "projectPath": "C:\\Users\\Joao\\source\\repos\\ProjetoMAUI\\ProjetoMAUI\\ProjetoMAUI.csproj",
+      "projectPath": "C:\\estudos\\front-end\\mobile\\maui\\ProjetoMAUI\\ProjetoMAUI\\ProjetoMAUI.csproj",
       "packagesPath": "C:\\Users\\Joao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joao\\source\\repos\\ProjetoMAUI\\ProjetoMAUI\\obj\\",
+      "outputPath": "C:\\estudos\\front-end\\mobile\\maui\\ProjetoMAUI\\ProjetoMAUI\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

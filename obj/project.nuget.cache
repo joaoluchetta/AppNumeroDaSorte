@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/7qvvAKCfFc=",
+  "dgSpecHash": "7qxm3kUhCnI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joao\\source\\repos\\ProjetoMAUI\\ProjetoMAUI\\ProjetoMAUI.csproj",
+  "projectFilePath": "C:\\estudos\\front-end\\mobile\\maui\\ProjetoMAUI\\ProjetoMAUI\\ProjetoMAUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joao\\.nuget\\packages\\googlegson\\2.11.0.5\\googlegson.2.11.0.5.nupkg.sha512",
     "C:\\Users\\Joao\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
